@@ -1,4 +1,4 @@
-![year][0] ![status][1]
+![year][0]![status][1]![progress][2]
 
 # Управление требованиями и проектирование ИС
 *ВШЭ ВШБ БИ, 1 модуль 2021/2022*
@@ -190,3 +190,4 @@
 
 [0]:https://img.shields.io/badge/year-2021-blue
 [1]:https://img.shields.io/badge/status-running-brightgreen
+[2]:https://progress-bar.dev/27/
