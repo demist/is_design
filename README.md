@@ -65,7 +65,7 @@
 
 *Не предполагается глубокое погружение в сами методологии разработки ПО, предполагается, что слушатели уже знают про них и знают, как они устроены. Если же нет - придется хотя бы "по верхам" рассказывать.*
 
-### [Лекция 5](https://github.com/demist/is_design/blob/main/lecture5.pdf)
+### :fire: [Лекция 5](https://github.com/demist/is_design/blob/main/lecture5.pdf)
 
 - Варианты использования
 - Понятие об акторах
@@ -77,7 +77,7 @@
     - Карточки CRC
     - Метод Аббота
 
-### [Лекция 6](https://github.com/demist/is_design/blob/main/lecture6.pdf)
+### :fire: [Лекция 6](https://github.com/demist/is_design/blob/main/lecture6.pdf)
 
 - Описание сложных процессов и взаимодействий
 - Диграмма последовательности
