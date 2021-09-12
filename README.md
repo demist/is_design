@@ -24,7 +24,7 @@
 - :white_check_mark: Базовые понятия 
 - :white_check_mark: Сбор, выявление и анализ требований
 
-### Лекция 2
+### [Лекция 2](https://github.com/demist/is_design/blob/main/lecture2.pdf)
 
 - Управление требованиями
     - Атрибуты требований
