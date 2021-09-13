@@ -65,7 +65,7 @@
 
 *Не предполагается глубокое погружение в сами методологии разработки ПО, предполагается, что слушатели уже знают про них и знают, как они устроены. Если же нет - придется хотя бы "по верхам" рассказывать.*
 
-### :fire: [Лекция 5](https://github.com/demist/is_design/blob/main/lecture5.pdf)
+### [Лекция 5](https://github.com/demist/is_design/blob/main/lecture5.pdf)
 
 - Варианты использования
 - Понятие об акторах
@@ -77,7 +77,7 @@
     - Карточки CRC
     - Метод Аббота
 
-### :fire: [Лекция 6](https://github.com/demist/is_design/blob/main/lecture6.pdf)
+### [Лекция 6](https://github.com/demist/is_design/blob/main/lecture6.pdf)
 
 - Описание сложных процессов и взаимодействий
 - Диграмма последовательности
@@ -85,14 +85,14 @@
 - Диаграмма деятельности
 
 
-### Лекция 7
+### :fire: Лекция 7
 
 - Методологии проектирования ПО
     - SADT
     - RAD
     - SUP
 
-### Лекция 8
+### :fire: Лекция 8
 
 - Классификация архитектуры ИС
 - Базовые типы архитектур
@@ -197,4 +197,4 @@
 
 [0]:https://img.shields.io/badge/year-2021%2F2022-blue
 [1]:https://img.shields.io/badge/status-running-brightgreen
-[2]:https://progress-bar.dev/27/
+[2]:https://progress-bar.dev/40/
