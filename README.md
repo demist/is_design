@@ -26,10 +26,10 @@
 
 ### [Лекция 2](https://github.com/demist/is_design/blob/main/lecture2.pdf)
 
-- Управление требованиями
+- :white_check_mark: Управление требованиями
     - Атрибуты требований
     - Приоритезация 
-- Управление изменениями
+- :white_check_mark: Управление изменениями
 
 
 ### [Лекция 3](https://github.com/demist/is_design/blob/main/lecture3.pdf)
