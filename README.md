@@ -113,7 +113,7 @@
         - Глоссарий
 
 
-Для самостоятельного дополнительного чтения: [методология RAD](http://citforum.ru/database/case/glava1_3_2.shtml)
+> Для самостоятельного дополнительного чтения: [методология RAD](http://citforum.ru/database/case/glava1_3_2.shtml)
 
 ### :fire: [Лекция 8](https://github.com/demist/is_design/blob/main/lecture8.pdf)
 
@@ -139,7 +139,7 @@
     - Понятие о тонком и толстом клиентах
     - Трехзвенная архитектура
 
-Для самостоятельного дополнительного чтения: [очень качественный ресурс про паттерны проектирования](https://refactoring.guru/ru/design-patterns/catalog)
+> Для самостоятельного дополнительного чтения: [очень качественный ресурс про паттерны проектирования](https://refactoring.guru/ru/design-patterns/catalog)
 
 ### Лекция 9 
 
