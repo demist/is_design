@@ -85,7 +85,7 @@
 - :white_check_mark: Диаграмма деятельности
 
 
-### :fire: Лекция 7
+### :fire: [Лекция 7](https://github.com/demist/is_design/blob/main/lecture7.pdf)
 
 Методологии функционального моделирования и проектирования ПО
 - DFD (*Data Flow Diagrams*)
