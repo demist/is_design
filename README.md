@@ -268,4 +268,4 @@
 
 [0]:https://img.shields.io/badge/year-2021%2F2022-blue
 [1]:https://img.shields.io/badge/status-running-brightgreen
-[2]:https://progress-bar.dev/53/
+[2]:https://progress-bar.dev/60/
