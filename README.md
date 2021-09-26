@@ -173,6 +173,10 @@
 - Подготовка *Технического задания* на разработку ИС
 - Основные разделы *Технического задания*
 
+> **#bookmark**: [ГОСТ 19.201-78](https://www.prj-exp.ru/gost/gost_19-201-78.php)
+
+> **#bookmark**: [ГОСТ 34.602-89](http://www.rugost.com/index.php?catid=22&id=96:gost-34602-89&Itemid=53&option=com_content&view=article)
+
 ### Лекция 12
 
 - Подходы к хранению данных
