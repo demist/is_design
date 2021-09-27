@@ -143,9 +143,9 @@
 
 > **#bookmark**: [очень качественный ресурс про паттерны проектирования](https://refactoring.guru/ru/design-patterns/catalog)
 
-### :white_check_mark: Лекция 9 
+### Лекция 9 
 
-*Лекция №9 уйдет на написание лекционной контрольной работы*
+:white_check_mark: *Лекция №9 уйдет на написание лекционной контрольной работы*
 
 
 ### [Лекция 10](https://github.com/demist/is_design/blob/main/lecture10.pdf)
