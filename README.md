@@ -115,7 +115,7 @@
         - Глоссарий
 
 
-> **#bookmark**: [методология RAD](http://citforum.ru/database/case/glava1_3_2.shtml)
+> [Методология RAD](http://citforum.ru/database/case/glava1_3_2.shtml)
 
 ### [Лекция 8](https://github.com/demist/is_design/blob/main/lecture8.pdf)
 
@@ -141,7 +141,7 @@
     - Понятие о тонком и толстом клиентах
     - Трехзвенная архитектура
 
-> **#bookmark**: [очень качественный ресурс про паттерны проектирования](https://refactoring.guru/ru/design-patterns/catalog)
+> [Очень качественный ресурс про паттерны проектирования](https://refactoring.guru/ru/design-patterns/catalog)
 
 ### Лекция 9 
 
@@ -206,9 +206,9 @@
 - :white_check_mark: Требования к документированию
 - :white_check_mark: Источники разработки
 
-> **#bookmark**: [ГОСТ 19.201-78](https://www.prj-exp.ru/gost/gost_19-201-78.php)
+> [ГОСТ 19.201-78](https://www.prj-exp.ru/gost/gost_19-201-78.php)
 
-> **#bookmark**: [ГОСТ 34.602-89](http://www.rugost.com/index.php?catid=22&id=96:gost-34602-89&Itemid=53&option=com_content&view=article)
+> [ГОСТ 34.602-89](http://www.rugost.com/index.php?catid=22&id=96:gost-34602-89&Itemid=53&option=com_content&view=article)
 
 ### :fire: [Лекция 12](https://github.com/demist/is_design/blob/main/lecture12.pdf)
 
