@@ -236,7 +236,7 @@
 
 *\* - дополнительная тема, не войдет в программу экзамена*
 
-### :fire: Лекция 13
+### :fire: [Лекция 13](https://github.com/demist/is_design/blob/main/lecture13.pdf)
 
 - Принципы SOLID
     - **S**ingle responsibility principle
