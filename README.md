@@ -238,9 +238,18 @@
 
 ### :fire: Лекция 13
 
-- Интеграция ИС в ИТ-ландшафт предприятия
-- Интеграции с внешними системами
-- Системы класса ESB
+- Принципы SOLID
+    - **S**ingle responsibility principle
+    - **O**pen-closed principle
+    - **L**iskov substitutional principle
+    - **I**nterface segregation principle
+    - **D**ependency inversion principle
+- Закон Деметры
+- YAGNI
+- DRY / DIE
+- KISS
+
+> [Лекция Роберта *Uncle Bob* Мартина  про SOLID](https://www.youtube.com/watch?v=zHiWqnTWsn4&ab_channel=FucktheCommunism)
 
 ### Лекция 14
 
