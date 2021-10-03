@@ -249,7 +249,7 @@
 - DRY / DIE
 - KISS
 
-> [Лекция Роберта *Uncle Bob* Мартина  про SOLID](https://www.youtube.com/watch?v=zHiWqnTWsn4&ab_channel=FucktheCommunism)
+> [Лекция Роберта *Uncle Bob* Мартина  про SOLID](https://www.youtube.com/watch?v=zHiWqnTWsn4)
 
 ### Лекция 14
 
