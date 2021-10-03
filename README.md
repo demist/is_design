@@ -210,7 +210,7 @@
 
 > **#bookmark**: [ГОСТ 34.602-89](http://www.rugost.com/index.php?catid=22&id=96:gost-34602-89&Itemid=53&option=com_content&view=article)
 
-### :fire: Лекция 12
+### :fire: [Лекция 12](https://github.com/demist/is_design/blob/main/lecture12.pdf)
 
 - Способы организации работы с данными
     - OLTP
