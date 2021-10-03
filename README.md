@@ -79,6 +79,8 @@
     - Карточки CRC
     - Метод Аббота
 
+> [UML Cheat Sheet](https://www.guru99.com/uml-cheatsheet-reference-guide.html)
+
 ### [Лекция 6](https://github.com/demist/is_design/blob/main/lecture6.pdf)
 
 - :white_check_mark: Описание сложных процессов и взаимодействий
