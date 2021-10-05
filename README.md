@@ -212,23 +212,23 @@
 
 > [ГОСТ 34.602-89](http://www.rugost.com/index.php?catid=22&id=96:gost-34602-89&Itemid=53&option=com_content&view=article)
 
-### :fire: [Лекция 12](https://github.com/demist/is_design/blob/main/lecture12.pdf)
+### [Лекция 12](https://github.com/demist/is_design/blob/main/lecture12.pdf)
 
-- Способы организации работы с данными
+- :white_check_mark: Способы организации работы с данными
     - OLTP
     - OLAP
-- Понятие о транзакции
-- ACID
+- :white_check_mark: Понятие о транзакции
+- :white_check_mark: ACID
     - Atomicity
     - Consistency
     - Isolation
     - Durability
-- CAP-теорема\*
-- Реляционные базы данных
+- :white_check_mark: CAP-теорема\*
+- :white_check_mark: Реляционные базы данных
     - Реляционная модель данных
     - Примеры реляционных СУБД
     - ORM
-- NoSQL БД
+- :white_check_mark: NoSQL БД
     - Общая идея
     - BASE
         - Basic Availability
