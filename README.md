@@ -238,18 +238,18 @@
 
 *\* - дополнительная тема, не войдет в программу экзамена*
 
-### :fire: [Лекция 13](https://github.com/demist/is_design/blob/main/lecture13.pdf)
+### [Лекция 13](https://github.com/demist/is_design/blob/main/lecture13.pdf)
 
-- Принципы SOLID
+- :white_check_mark: Принципы SOLID
     - **S**ingle responsibility principle
     - **O**pen-closed principle
     - **L**iskov substitutional principle
     - **I**nterface segregation principle
     - **D**ependency inversion principle
-- Закон Деметры
-- YAGNI
-- DRY / DIE
-- KISS
+- :white_check_mark: Закон Деметры
+- :white_check_mark: YAGNI
+- :white_check_mark: DRY / DIE
+- :white_check_mark: KISS
 
 > [Лекция Роберта *Uncle Bob* Мартина  про SOLID](https://www.youtube.com/watch?v=zHiWqnTWsn4)
 
