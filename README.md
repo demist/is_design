@@ -253,7 +253,7 @@
 
 > [Лекция Роберта *Uncle Bob* Мартина  про SOLID](https://www.youtube.com/watch?v=zHiWqnTWsn4)
 
-### Лекция 14
+### [Лекция 14](https://github.com/demist/is_design/blob/main/lecture14.pdf)
 
 - Что такое качество ПО?
     - Определения качества ПО
